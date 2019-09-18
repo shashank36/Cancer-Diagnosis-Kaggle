@@ -32,7 +32,7 @@ After applying all the models with tf-idf features and using only the top 1000 w
 
 
 ###  Apply feature engineering techniques to reduce the log-loss to a value less than 1.0
-Added Gene Feature Variation Featureto improve the performance. And after some feature engineering, we managed to decrease the log loss below < 1
+Added Gene Feature Variation feature to improve the performance. And after some feature engineering, we managed to decrease the log loss below < 1
 
 
 
